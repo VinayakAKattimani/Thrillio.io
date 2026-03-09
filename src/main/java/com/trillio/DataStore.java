@@ -47,7 +47,7 @@ public class DataStore {
 
     }
     private static void loadWebLinks(){
-       bookMarks[0][0] = BookmarkManager.getInstance().createWebLink( 2000,"Taming Tiger, Part 2","http://www.jiohotstar.com/article/2072759/core-java/taming-tiger--part-2.html","http://www.javaworld.com","unknown");
+       bookMarks[0][0] = BookmarkManager.getInstance().createWebLink( 2000,"Taming Tiger, Part 2","http://www.jiohotstargit.com/article/2072759/core-java/taming-tiger--part-2.html","http://www.javaworld.com","unknown");
         bookMarks[0][1] = BookmarkManager.getInstance().createWebLink(2001,"How do I import a pre-existing Java project into Eclipse and get up and running?","http://stackoverflow.com/questions/142863/how-do-i-import-a-pre-existing-java-project-into-eclipse-and-get-up-and-running","http://www.stackoverflow.com","unknown");
         bookMarks[0][2] = BookmarkManager.getInstance().createWebLink(2002,"Interface vs Abstract Class","http://mindprod.com/jgloss/interfacevsabstract.html","http://mindprod.com","unknown");
         bookMarks[0][3] = BookmarkManager.getInstance().createWebLink(2003,"NIO tutorial by Greg Travis","http://cs.brown.edu/courses/cs161/papers/j-nio-ltr.pdf","http://cs.brown.edu","unknown");
